@@ -1,0 +1,88 @@
+.Primero{
+    text-align: justify;
+    padding-right: 300px;
+}
+
+
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  
+  body {
+    margin: 0;
+    margin-bottom: 40px;
+  }
+
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 170px;
+    color: white;
+    padding-bottom: 290px;
+    padding-top: 5px;
+  }
+
+.footer{
+    display: flex;
+    padding-top: 0px;
+}
+
+footer p{
+    padding-left: 50px;
+    padding-top: 0px;
+
+}
+
+footer img{
+    padding-left: 90px;
+}
+
+.footer2{
+    display: flex;
+    padding-left: 100px;
+    padding-bottom: 0px;
+}
+
+.footer3{
+    padding-top: 10px;
+    padding-left: 200px;
+}
+
+.h31{
+    padding-left: 50px;
+}
+
+.Primero{
+    padding-left: 30px;
+}
+
+.Segundo{
+    padding-left: 30px;
+}
+
+.Segundo h2{
+    padding-left: 50px;
+}
+
+.h32{
+    padding-left: 50px;
+}
+
+.tipos{
+    padding-left: 30px;
+}
+
+.video{
+    text-align: center;
+    background-color: rgb(233, 224, 255);
+}
